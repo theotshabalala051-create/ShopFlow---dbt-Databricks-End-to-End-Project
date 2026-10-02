@@ -1,0 +1,15 @@
+# Secrets: never commit these
+.env
+profiles.yml
+*.token
+
+# dbt generated files
+target/
+dbt_packages/
+logs/
+
+# Python / editor
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
