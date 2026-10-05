@@ -6,7 +6,7 @@ ShopFlow is an e-commerce business (Similar to Takealot or Amazon). Its data is 
 2. Which products and categories sell best?
 3. Who are our best customers?
 
-My job is to build one clean, trusted place where anyone can answer those with a simple query or dashboard, without touching the messy raw data. When you finish, "what's our revenue?" should be one short SQL query against a ready-made table.
+My job is to build one clean, trusted place where anyone can answer those with a simple query or dashboard, without touching the messy raw data. When I am finish, "what's our revenue?" should be one short SQL query against a ready-made table.
 
 ---
 
